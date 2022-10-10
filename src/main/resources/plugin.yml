@@ -1,0 +1,9 @@
+name: BossPlugin
+version: '${project.version}'
+main: bossplugin.bossplugin.BossPlugin
+api-version: 1.19
+prefix: BossPlugin
+authors: [ Peter, Tobias ]
+description: This plugin contains many bosses and armor/weapon sets.
+website:
+
