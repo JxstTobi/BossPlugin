@@ -7,7 +7,7 @@ public final class BossPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getCommand("NaHoerMal").setExecutor(new ExampleCommand());
+        getCommand("test").setExecutor(new ExampleCommand());
     }
 
     @Override
